@@ -1,0 +1,14 @@
+[core]
+	excludesfile = /Users/jaspervdm/.gitignore_global
+	autocrlf = input
+	editor = nano
+[user]
+	name = jasper-vandemalle
+	email = jasper.vandemalle@gmail.com
+	signingkey = 399805618A9176E0
+[push]
+	default = simple
+[gpg]
+	program = gpg
+[commit]
+	gpgsign = true
